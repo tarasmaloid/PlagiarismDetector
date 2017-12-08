@@ -1,0 +1,3 @@
+ const string apiKey = "AIzaSyBR21wnVDrax8X6nhRGegJnp1f3AinzXWw";
+        const string searchEngineId = "007678932125277518834:m2kbb-s8i3q";
+        const string applicationName = "DiplomaWork";
